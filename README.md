@@ -1,6 +1,6 @@
 ### Olá, sou a Lívia Portela Ferreira
 
-Atualmente fazendo curso técnico de Desenvolvimento de Sistemas
+- Atualmente fazendo curso técnico de Desenvolvimento de Sistemas 💻 
 
 <div align="center">
   <a href="https://github.com/liviaportela">

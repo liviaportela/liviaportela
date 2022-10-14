@@ -23,6 +23,4 @@ Atualmente fazendo curso técnico de Desenvolvimento de Sistemas
 
 <a href="https://instagram.com/livia.pferreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<div>
 ![Snake animation](https://github.com/liviaportela/liviaportela/blob/output/github-contribution-grid-snake.svg)
-</div>

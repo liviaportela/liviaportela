@@ -18,7 +18,7 @@ Atualmente fazendo curso técnico de Desenvolvimento de Sistemas
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 
-<a href="https://instagram.com/liviap.ferreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/livia.pferreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 <div>
 ![Snake animation](https://github.com/liviaportela/liviaportela/blob/output/github-contribution-grid-snake.svg)

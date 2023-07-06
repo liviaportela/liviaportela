@@ -1,11 +1,11 @@
-### Olá, sou a Lívia Portela Ferreira
+### Olá!! Eu sou a Lívia Portela
 
 - Atualmente fazendo curso técnico de Desenvolvimento de Sistemas 💻 
 
 <div align="center">
   <a href="https://github.com/liviaportela">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liviaportela&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviaportela&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liviaportela)&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liviaportela&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>

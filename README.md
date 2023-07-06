@@ -3,13 +3,9 @@
 - Atualmente fazendo curso técnico de Desenvolvimento de Sistemas 💻 
 
 <div align="center">
-  <a href="https://github.com/liviaportela">
   <a href="https://github.com/liviaportela/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=liviaportela" />
-</a>
-<a href="https://github.com/liviaportela/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liviaportela&layout=compact&langs_count=8&card_width=320" />
-</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liviaportela&show_icons=true&theme=holi&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviaportela&layout=compact&langs_count=16&theme=holi" />
 </div>
 
 <div style="display: inline_block"><br>

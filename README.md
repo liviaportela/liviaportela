@@ -3,7 +3,7 @@
 - Atualmente fazendo curso técnico de Desenvolvimento de Sistemas 💻 
 
 <div>
-  <a href="https://github.com/liviaportela/github-readme-stats">
+  <a href="https://github.com/liviaportela">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liviaportela&show_icons=true&theme=holi&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviaportela&layout=compact&langs_count=16&theme=holi" />
 </div>

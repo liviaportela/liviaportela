@@ -1,6 +1,6 @@
 ### Olá!! Eu sou a Lívia Portela
 
-- Atualmente fazendo o 3° ano do curso técnico de Desenvolvimento de Sistemas 💻 
+- Sou técnica em Desenvolvimento de Sistemas 💻 
 
 <div>
   <a href="https://github.com/liviaportela">

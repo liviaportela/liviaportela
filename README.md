@@ -9,15 +9,16 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=liviaportela&bg_color=0d1117&color=338bff&line=5fabef&point=dcedff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div style="text-align: center; margin-bottom: 20px; display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=liviaportela&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" style="margin-right: 10px;">
-  <img src="pc.svg" style="min-width: 400px; max-width: 400px; width: 400px;">
-</div>
+<img src="pc.svg" min-width="400px" max-width="400px" width="400px" align="right">
 
-<div style="text-align: center; margin-top: 20px; display: flex; justify-content: center; align-items: center;"> 
-  <a href="https://instagram.com/livia.pferreira" target="_blank" style="margin-right: 10px;"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:liviaportelaferreira@gmail.com" target="_blank" style="margin-right: 10px;"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lívia-portela-ferreira-593507292/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=liviaportela&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15">
+</div><br>
+
+<div align="center"> 
+  <a href="https://instagram.com/livia.pferreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:liviaportelaferreira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lívia-portela-ferreira-593507292/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
  
  ### Main skills:
@@ -32,7 +33,7 @@
 ![Php](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=Php&logoColor=505c94&labelColor=0D1117)&nbsp;
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{liviaportela}/count.svg" /></p> 
 <br>
 </div>

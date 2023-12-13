@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0844fc&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dcedff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lívia+Portela+Ferreira;I'm+18+years+old;I'm+from+Brazil;I+graduated+as+a+technician+in+systems+development;Be+welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=338bff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lívia+Portela+Ferreira;I'm+18+years+old;I'm+from+Brazil;I+graduated+as+a+technician+in+systems+development;Be+welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=liviaportela&show_icons=true&count_private=true&hide_border=true&title_color=5fabef&icon_color=5fabef&text_color=dcedff&bg_color=0d1117" alt="Lívia Portela github stats" /> 
@@ -12,7 +12,7 @@
 <img src="pc.svg" min-width="400px" max-width="400px" width="400px" align="right">
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=liviaportela&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15">
+  <img src="https://github-profile-trophy.vercel.app/?username=liviaportela&theme=onestar&row=2&column=3&margin-w=15&margin-h=15">
 </div><br>
 
 <div align="center"> 

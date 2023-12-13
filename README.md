@@ -11,7 +11,7 @@
 
 <div align="center" style="display: inline_block">
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=liviaportela&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-  <img align="right" src="/assets/pc.svg" alt="Programação">
+  <img align="right" src="pc.svg" alt="Programação">
 </div>
 
 <div align="center"> 
